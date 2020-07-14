@@ -3,7 +3,7 @@
   <div class="hero-text">
     <h1 style="font-size:50px">Laura</h1>
     <p><u>Aspiring Web Developer</u></p>
-    <button>Twitter: @Misslors_x <br> Github: Misslors_x</button>
+  [1.1]: http://i.imgur.com/tXSoThF.png
   </div>
 </div>
 <br>
