@@ -18,5 +18,5 @@
 - HTML
 - CSS
 - Bootstrap
-- Vue.JS
+- Vue.js
 - Node.js
