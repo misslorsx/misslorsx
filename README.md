@@ -5,7 +5,7 @@
     <p><u>Aspiring Web Developer</u></p>
     Twitter: @misslors_x
     <br>
-    Website: http://127.0.0.1:8887/
+    Website: https://misslorsx.github.io/LauraJane/
   </div>
 </div>
 <br>
