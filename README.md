@@ -2,7 +2,7 @@
 <div class="hero-image">
   <div class="hero-text">
     <h1 style="font-size:50px">Laura</h1>
-    <p><u>Aspiring Web Developer</u></p>
+    <p><u>Web Developer</u></p>
     Twitter: @misslors_x
     <br>
     Website: https://misslorsx.github.io/Profile/
