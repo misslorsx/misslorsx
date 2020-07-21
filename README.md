@@ -5,7 +5,7 @@
     <p><u>Aspiring Web Developer</u></p>
     Twitter: @misslors_x
     <br>
-    Website: https://misslorsx.github.io/LauraJane/
+    Website: https://misslorsx.github.io/Profile/
   </div>
 </div>
 <br>
