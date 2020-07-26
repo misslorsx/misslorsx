@@ -1,7 +1,7 @@
 
 <div class="hero-image">
   <div class="hero-text">
-    <h1 style="font-size:50px">Laura</h1>
+    <h1 style="font-size:50px">Laura Jane :computer: </h1>
     <p><u>Web Developer</u></p>
       Twitter: @miss_lorsx
     <br>
