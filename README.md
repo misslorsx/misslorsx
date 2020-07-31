@@ -3,9 +3,10 @@
   <div class="hero-text">
     <h1 align= 'center'> Laura Jane :computer: </h1>
     <p><u>Web Developer</u></p>
+    Codepen: https://codepen.io/Misslors_x
       Twitter: @miss_lorsx
     <br>
-    Website: https://misslorsx.github.io/Profile/
+    https://misslorsx.github.io/Profile/
   </div>
 </div>
 <br>
@@ -23,6 +24,6 @@
 - Vue.js
 - Node.js
 
-Codepen React Project: https://codepen.io/Misslors_x/project/editor/ABdpNm
+
 
 :coffee: :dog: :heart:
