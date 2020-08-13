@@ -22,8 +22,7 @@
 - HTML
 - CSS
 - Bootstrap
-- Vue.js
-- Node.js
+
 
 
 
