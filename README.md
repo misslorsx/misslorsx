@@ -12,11 +12,11 @@
 </div>
 <br>
 <br>
-<p><u>About me</u></p>
+<p><u>About me<u></p>
 
 <p> I am studying a computer science degree at the Open University. 
-  <br> and I would like to gain hands on practical experience within a company/organization.
-<br> i am currently working on projects via Codepen, and freecodecamp to increase my skills/knowledge, i am familiar/working with </p>
+  <br> and I am looking to gain hands on practical experience within a company/organization.
+<br> Currently, I am working on projects via Codepen, and freecodecamp to increase my skills/knowledge, i am familiar/working with </p>
  
 - Javascript
 - HTML
