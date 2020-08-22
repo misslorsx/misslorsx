@@ -21,13 +21,13 @@
 
 <div align="left">
 
-- 🌏 Living in the UK
+- 🇬🇧 Living in the UK
 - 🔭 Learning & growing everyday through projects, tutorials & networking
-- 🌱 Write's blogs on DEV.to
-- Cockapoo called Princess Leia
-- Studying Computer Science at University
-- Pronoun: She/her
-- Looking for my first Junior Developer Position
+- ✏️📋 Write's blogs on DEV.to
+- 🐶 Cockapoo called Princess Leia
+- 🎓 Studying Computer Science at University
+- 🌟 Pronoun: She/her
+- 👁 Looking for my first Junior Developer Position
 
 </div>
  <br>
