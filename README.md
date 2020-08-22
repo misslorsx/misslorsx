@@ -7,7 +7,9 @@
     
     <a href="https://codepen.io/Misslors_x">
     <img align="center" height="40" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="125" title="CodePen" />
-     </a>                                                                                                                            
+    </a>
+     
+  <br>
     <a href="https://twitter.com/miss_lorsx">
      <img align="center" height="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" />
     </a>
