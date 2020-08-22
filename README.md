@@ -17,14 +17,17 @@
 <br>
 <br>
 
+### <h3> About me: </h3>
 
-<h3> About me </h3>
+- <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/> Living in the UK
+- <img src="https://img.icons8.com/emoji/48/000000/seedling.png"/> Learning & growing everyday through projects, tutorials & networking
+- <img src="https://img.icons8.com/emoji/48/000000/pencil-emoji.png"/> I write blogs on DEV.to
+- <img src="https://img.icons8.com/emoji/48/000000/dog-face.png"/> I have a Cockapoo called Princess Leia
+- <img src="https://img.icons8.com/emoji/48/000000/graduation-cap-emoji.png"/> Studying Computer Science at University
+- <img src="https://img.icons8.com/emoji/48/000000/woman-blond-hair.png"/> Pronoun: She/her
+- <img src="https://img.icons8.com/emoji/48/000000/briefcase-emoji.png"/> Looking for my first Junior Developer Position
 
-<p> I am studying a computer science degree at the Open University. 
-  <br> and I am looking to gain hands on practical experience within a company/organization.
-<br> Currently, I am working on projects via Codepen, and freecodecamp to increase my skills/knowledge, i am familiar/working with
-
-### I am working on blog posts in my spare time, which i post to [Dev.to] (https://dev.to/misslorsx) </p>
+ 
  
  <h3> Tech: </h3>
 
