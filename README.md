@@ -5,9 +5,11 @@
     <p><u>Web Developer</u></p>
     Codepen: https://codepen.io/Misslors_x
     <br>
-      Twitter: @miss_lorsx
-    <br>
-    https://misslorsx.github.io/Profile/
+    <a href="https://twitter.com/miss_lorsx">
+     <img align="center" height="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" />
+    </a>
+   
+  
   </div>
 </div>
 <br>
