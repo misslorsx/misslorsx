@@ -3,11 +3,7 @@
   <div class="hero-text">
     <h1 align= 'center'> Laura Jane :computer: </h1>
     <p><u>Web Developer</u></p>
-    <br>
-    
-    <a href="https://codepen.io/Misslors_x">
-    <img align="center" height="40" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="125" title="CodePen" />
-    </a>
+  
      
   <br>
     <a href="https://twitter.com/miss_lorsx">
