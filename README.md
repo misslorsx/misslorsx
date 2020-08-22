@@ -21,13 +21,13 @@
 
 - <img align="left" width="26px" src ="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/> Living in the UK
 - <img align="left" width="26px" src="https://img.icons8.com/emoji/48/000000/seedling.png"/> Learning & growing everyday through projects, tutorials & networking
-- <img align="left" width="26px" src="https://img.icons8.com/emoji/48/000000/pencil-emoji.png"/> I write blogs on DEV.to
-- <img align="left" width="26px" src="https://img.icons8.com/emoji/48/000000/dog-face.png"/> I have a Cockapoo called Princess Leia
+- <img align="left" width="26px" src="https://img.icons8.com/emoji/48/000000/pencil-emoji.png"/> Write's blogs on DEV.to
+- <img align="left" width="26px" src="https://img.icons8.com/emoji/48/000000/dog-face.png"/> Cockapoo called Princess Leia
 - <img align="left" width="26px" src="https://img.icons8.com/emoji/48/000000/graduation-cap-emoji.png"/> Studying Computer Science at University
 - <img align="left" width="26px" src="https://img.icons8.com/emoji/48/000000/woman-blond-hair.png"/> Pronoun: She/her
 - <img align="left" width="26px" src="https://img.icons8.com/emoji/48/000000/briefcase-emoji.png"/> Looking for my first Junior Developer Position
 
- 
+ <br>
  
  <h3> Tech: </h3>
 
