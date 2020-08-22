@@ -1,12 +1,15 @@
 
 <div class="hero-image">
   <div class="hero-text">
-    <h1 align= 'center'> Laura Jane :computer: </h1>
-    <p align="center"> Web Developer</u></p>
+    <h1 align= 'center'> Hello.. I'm Laura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+    <p align="center"> Junior Web Developer</u></p>
   
      
- Contact me: 
- 
+ <p align='center'>
+<a href="https://www.linkedin.com/in/laurawilkinson29/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/miss_lorsx"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/misslorsx"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
+  
    
   
   </div>
@@ -19,7 +22,9 @@
 
 <p> I am studying a computer science degree at the Open University. 
   <br> and I am looking to gain hands on practical experience within a company/organization.
-<br> Currently, I am working on projects via Codepen, and freecodecamp to increase my skills/knowledge, i am familiar/working with </p>
+<br> Currently, I am working on projects via Codepen, and freecodecamp to increase my skills/knowledge, i am familiar/working with
+
+### I am working on blog posts in my spare time, which i post to [Dev.to] (https://dev.to/misslorsx) </p>
  
  <h3> Tech: </h3>
 
@@ -32,7 +37,7 @@
 <br>
 <br>
 
-<img align="center" alt="Laura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=misslorsx&show_icons=true&hide_border=true&count_private=true" />
+<img align="right" alt="Laura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=misslorsx&show_icons=true&hide_border=true&count_private=true" />
 
 
 
