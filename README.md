@@ -2,7 +2,7 @@
 <div class="hero-image">
   <div class="hero-text">
     <h1 align= 'center'> Laura Jane :computer: </h1>
-    <p><u>Web Developer</u></p>
+    <p align="center"> Web Developer</u></p>
   
      
   <br>
@@ -15,7 +15,9 @@
 </div>
 <br>
 <br>
-<p><u>About me<u></p>
+
+
+<h3> About me </h3>
 
 <p> I am studying a computer science degree at the Open University. 
   <br> and I am looking to gain hands on practical experience within a company/organization.
