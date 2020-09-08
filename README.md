@@ -3,13 +3,14 @@
   <div class="hero-text">
     <h1 align= 'center'> Hello.. I'm Laura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
     <p align="center"> Junior Web Developer</u></p>
+    
+  
   
      
  <p align='center'>
 <a href="https://www.linkedin.com/in/laurawilkinson29/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/miss_lorsx"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://dev.to/misslorsx"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
-  
    
   
   </div>
