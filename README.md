@@ -28,7 +28,6 @@
 - 🐶 Cockapoo called Princess Leia
 - 🎓 Studying Computer Science at University
 - 🌟 Pronoun: She/her
-- 👁 Looking for my first Junior Developer Position
 
 </div>
  <br>
