@@ -43,6 +43,6 @@
 <br>
 <br>
 
-<img align="right" alt="Laura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=misslorsx&show_icons=true&hide_border=true&count_private=true" />
+<img align="right" alt="Laura's Github Stats" src="![Laura's github stats](https://github-readme-stats.vercel.app/api?username=misslorsx&show_icons=true&bg_color=30,ff4444,ff8888&title_color=fff&text_color=fff&icon_color=fff)"/>
 
 
